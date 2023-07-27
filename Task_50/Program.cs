@@ -37,7 +37,7 @@ for (int i = 0; i < nums.GetLength(0); i++)
         if (i == m || j == n)
 
         {
-            Console.WriteLine($" Число массива на заданной позиции: {nums[m, n]}");
+            Console.WriteLine($"Число массива на заданной позиции: {nums[m, n]}");
 
 
 
